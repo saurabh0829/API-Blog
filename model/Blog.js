@@ -13,7 +13,7 @@ const blogSchema = new Schema({
         required: true,
     },
     image: {
-        type: String,  // bcoz it iwll be type of a url
+        type: String,  // bcoz it will be type of a url
         required: true
     },
     user: {
